@@ -11,7 +11,7 @@ gem 'sqlite3'
 
 group :development do
 	gem 'rspec-rails'
-	gem 'faker', '0.3.1'
+	gem 'faker'
 end
 
 group :test do
